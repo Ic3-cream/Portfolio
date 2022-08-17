@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+.line {
+    background-color: plum;
+    width: 700px;
+    height: 7px;
+    margin: 5px auto;
+}
+#my-carousel{
+    background-color: crimson;
+}
+#my-carousel img{
+    height: 300px;
+    margin-top: 37px;
+}
+.carousel-inner p {
+    margin-bottom: 15px ;
+    margin-top: 15px ;
+    color: cornflowerblue;
+    font-size: 23px;
+}
